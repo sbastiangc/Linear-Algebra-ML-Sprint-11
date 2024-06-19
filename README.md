@@ -14,7 +14,7 @@ Task 4: Protect clients' personal data without breaking the model from the previ
 
 It's necessary to develop a data transformation algorithm that would make it hard to recover personal information if the data fell into the wrong hands. This is called data masking, or data obfuscation. But the data should be protected in such a way that the quality of machine learning models doesn't suffer. You don't need to pick the best model, just prove that the algorithm works correctly.
 
-#Data:
+# Data:
 
 Features: insured person's gender, age, salary, and number of family members.
 
