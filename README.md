@@ -1,6 +1,10 @@
 # Linear-Algebra-ML-Sprint-11
 Insurance company Machine Learning: find similar client profiles KNN, predict insurance benefits &amp; protect personal data.
 
+Libraries: pandas, numpy, seaborn, sklearn, KNeighborsClassifier, linear_model & confusion_matrix
+
+*English version will be posted soon*
+
 # Project Description: 
 The company wants to solve several tasks with the help of Machine Learning, and you are asked to evaluate that possibility.
 
